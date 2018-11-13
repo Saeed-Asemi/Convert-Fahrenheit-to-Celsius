@@ -1,0 +1,7 @@
+D:\Uni\Programming\C#\Convert Fahrenheit to Celsius\Convert Fahrenheit to Celsius\bin\Debug\Convert Fahrenheit to Celsius.exe.config
+D:\Uni\Programming\C#\Convert Fahrenheit to Celsius\Convert Fahrenheit to Celsius\bin\Debug\Convert Fahrenheit to Celsius.exe
+D:\Uni\Programming\C#\Convert Fahrenheit to Celsius\Convert Fahrenheit to Celsius\bin\Debug\Convert Fahrenheit to Celsius.pdb
+D:\Uni\Programming\C#\Convert Fahrenheit to Celsius\Convert Fahrenheit to Celsius\obj\Debug\Convert Fahrenheit to Celsius.csprojAssemblyReference.cache
+D:\Uni\Programming\C#\Convert Fahrenheit to Celsius\Convert Fahrenheit to Celsius\obj\Debug\Convert Fahrenheit to Celsius.csproj.CoreCompileInputs.cache
+D:\Uni\Programming\C#\Convert Fahrenheit to Celsius\Convert Fahrenheit to Celsius\obj\Debug\Convert Fahrenheit to Celsius.exe
+D:\Uni\Programming\C#\Convert Fahrenheit to Celsius\Convert Fahrenheit to Celsius\obj\Debug\Convert Fahrenheit to Celsius.pdb
